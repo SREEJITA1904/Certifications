@@ -23,7 +23,7 @@ The certification focused on building foundational and advanced data analysis sk
 
 ## 📎 View/Download Certificate (PDF)
 
-[Click here to view full certificate](https://github.com/SREEJITA1904/Certifications/raw/main/TATA%20DATA%20VISUALIZATION%20certificate.pdf)
+[Click here to view full certificate](https://github.com/SREEJITA1904/Certifications/raw/main/TATA%20DATA%20VISUALIZATION%20certificate)
 
 
 
@@ -33,7 +33,7 @@ This repository contains my certificate of completion for the **Deloitte Data Vi
 
 ## 📜 Certificate
 
-You can view the certificate [here](./Deloitte_Data_Visualization_Certificate.pdf).  
+You can view the certificate [here](https://github.com/SREEJITA1904/Certifications/raw/main/DELLOITE%20certificate.docx).  
 
 
 ## 🧠 What I Learned
