@@ -23,5 +23,5 @@ The certification focused on building foundational and advanced data analysis sk
 
 ## 📎 View/Download Certificate (PDF)
 
-[Click here to view full certificate]
-(https://github.com/SREEJITA1904/Certifications/raw/main/TATA%20DATA%20VISUALIZATION%20certificate.pdf)
+[Click here to view full certificate](https://github.com/SREEJITA1904/Certifications/raw/main/TATA%20DATA%20VISUALIZATION%20certificate.pdf)
+
