@@ -73,3 +73,74 @@ This virtual internship was designed by Deloitte professionals to simulate real 
 
 
 
+
+# 🎓 IBM Data Analyst Professional Certificate
+
+This repository contains my certificate and learning highlights from the **IBM Data Analyst Professional Certificate**, issued by **IBM via Coursera**.
+
+---
+
+## 🧠 What I Learned
+
+Over the course of 8 modules and a capstone project, I gained practical, hands-on experience across the entire data analytics lifecycle:
+
+### 📚 Course Breakdown:
+
+1. **Introduction to Data Analytics**  
+   - Learned the role of a data analyst, types of data, and how to approach business problems with data-driven thinking.
+
+2. **Excel Basics for Data Analysis**  
+   - Performed data cleaning, sorting, filtering, pivot tables, and basic visualizations using Excel.
+
+3. **Data Visualization and Dashboards with Excel and Cognos**  
+   - Built interactive dashboards using Excel and IBM Cognos Analytics for business reporting.
+
+4. **Python for Data Science, AI & Development**  
+   - Gained Python basics and wrote scripts for data handling and automation.
+
+5. **Databases and SQL for Data Science with Python**  
+   - Wrote complex SQL queries to extract and analyze data from relational databases. Used SQL with Python.
+
+6. **Data Analysis with Python**  
+   - Used libraries like Pandas, NumPy, and Scipy to clean and explore datasets.
+
+7. **Data Visualization with Python**  
+   - Built detailed visualizations using Matplotlib, Seaborn, and Folium to communicate insights effectively.
+
+8. **IBM Data Analyst Capstone Project**  
+   - Completed an end-to-end project: data wrangling, EDA, visualization, and a business presentation using real-world datasets.
+
+---
+
+## 📜 Certificate
+
+- 📎 [Click here to view IBM Data Analyst Certificate](./IBM_Data_Analyst_Capstone_Certificate.pdf)
+
+---
+
+## 🛠 Tools & Technologies Used
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL (MySQL/Db2)
+- Excel
+- IBM Cognos Analytics
+- Jupyter Notebooks
+
+---
+
+
+## 🖼️ Certificate Preview
+
+![Tata Certificate](https://github.com/SREEJITA1904/Certifications/raw/main/Screenshot%20(102).png)
+
+## 💼 Outcome
+
+This certification gave me real-world, job-ready skills in data wrangling, analysis, and visualization. I’m now confident in using data to drive business insights and support decision-making.
+
+---
+
+📬 Feel free to explore my project repositories or connect with me on [LinkedIn](https://linkedin.com/in/yourprofile) for collaboration or job opportunities.
+
+
+
+
+
