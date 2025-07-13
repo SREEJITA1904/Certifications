@@ -114,7 +114,7 @@ Over the course of 8 modules and a capstone project, I gained practical, hands-o
 
 ## 📜 Certificate
 
-- 📎 [Click here to view IBM Data Analyst Certificate](./IBM_Data_Analyst_Capstone_Certificate.pdf)
+- 📎 [Click here to view IBM Data Analyst Certificate](https://github.com/SREEJITA1904/Certifications/raw/main/IBM%20PROF%20CERTIFICATE.pdf)
 
 ---
 
