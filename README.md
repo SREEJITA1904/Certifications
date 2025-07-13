@@ -67,7 +67,7 @@ This virtual internship was designed by Deloitte professionals to simulate real 
 
  ## 🖼️ Certificate Preview
 
-![Tata Certificate](https://github.com/SREEJITA1904/Certifications/raw/main/Screenshot%20(102).png)
+![Deloitte Certificate](https://github.com/SREEJITA1904/Certifications/raw/main/Delloite.png)
 
 *This certificate reflects my commitment to continuous learning and real-world application of data analytics.*
 
