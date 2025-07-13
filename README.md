@@ -130,7 +130,7 @@ Over the course of 8 modules and a capstone project, I gained practical, hands-o
 
 ## 🖼️ Certificate Preview
 
-![Tata Certificate](https://github.com/SREEJITA1904/Certifications/raw/main/Screenshot%20(102).png)
+![IBM Certificate](https://github.com/SREEJITA1904/Certifications/raw/main/IBM.png)
 
 ## 💼 Outcome
 
@@ -138,7 +138,7 @@ This certification gave me real-world, job-ready skills in data wrangling, analy
 
 ---
 
-📬 Feel free to explore my project repositories or connect with me on [LinkedIn](https://linkedin.com/in/yourprofile) for collaboration or job opportunities.
+📬 Feel free to explore my project repositories or connect with me on [LinkedIn](https://www.linkedin.com/in/sreejitaguha-dataanalyst/) for collaboration or job opportunities.
 
 
 
