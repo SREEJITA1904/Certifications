@@ -18,7 +18,7 @@ The certification focused on building foundational and advanced data analysis sk
 
   ## 🖼️ Certificate Preview
 
-![Tata Certificate](https://github.com/SREEJITA1904/Certifications/raw/main/Screenshot%20(102).png)
+![Tata Certificate](https://github.com/SREEJITA1904/Certifications/raw/main/TATA.png)
 
 
 ## 📎 View/Download Certificate (PDF)
